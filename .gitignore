@@ -1,5 +1,6 @@
 # VSCode
 .vscode/
 
-# Python Virtual Environment
+# Python
+__pycache__/
 venv/
